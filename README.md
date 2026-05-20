@@ -20,17 +20,13 @@
 
 ## 🧑‍💼 About Me
 
-> **Data Analyst** passionate about transforming complex data into clear, actionable business intelligence. Transitioned from a Data Entry background into Analytics through self-learning, consistency, and hands-on project work.
+**Data Analyst** passionate about transforming complex data into clear, actionable business intelligence. I transitioned from a Data Entry background into Analytics through self-learning, consistency, and hands-on project work.
 
-```python
-kuldeep = {
-    "role"       : "Data Analyst (Open to Opportunities)",
-    "focus"      : ["Supply Chain Analysis", "Customer Insights", "BI Dashboards"],
-    "learning"   : ["Advanced ML", "DAX in Power BI", "Cloud Analytics", "AI Integration"],
-    "fun_fact"   : "I went from Data Entry → Data Analytics via pure self-discipline 🚀",
-    "goal"       : "Land enterprise-level analytics roles & create measurable business impact"
-}
-```
+- 🔭 **Currently working on** — Supply Chain Analysis, Customer Insights & BI Dashboards using SQL, Python, Power BI & ML
+- 👯 **Looking to collaborate on** — Real-world Data Analytics, Power BI, SQL & Machine Learning projects with measurable business impact
+- 🌱 **Currently learning** — Advanced Machine Learning, DAX in Power BI, Cloud Analytics & end-to-end AI-integrated portfolios
+- 🎯 **Goal** — Break into enterprise-level analytics and create meaningful impact through data-driven decisions
+- ⚡ **Fun fact** — I went from Data Entry → Data Analytics via pure self-learning & consistency 🚀
 
 ---
 
